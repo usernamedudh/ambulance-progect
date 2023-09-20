@@ -1,4 +1,4 @@
-Certainly! Here's a README file in English for your "Emergency Assistance" application:
+
 
 # Emergency Assistance App
 
